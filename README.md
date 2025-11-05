@@ -1,44 +1,68 @@
-# Hi there! 👋 I'm Alyssa, a Software Engineering Student on a Mission
+# 👋🏽 Hi there, I'm Alyssa!
 
-I'm a passionate and driven software engineering student currently pursuing my Level 3 studies.  I'm excited to explore the world of software development and build innovative solutions.  This GitHub profile serves as a portfolio of my learning journey, showcasing my projects, contributions, and evolving skills.
+🌍 **Aspiring Software Engineer | React • Node.js • PostgreSQL | Exploring AI & Cybersecurity**
 
-## What I'm Learning
+I’m a passionate and curious developer who loves transforming ideas into **smart, secure, and human-centered web applications**.  
+My journey blends **technical learning** and **creative problem-solving** — from designing clean user interfaces to exploring how **AI** and **cybersecurity** can shape the next generation of digital experiences.
 
-I'm currently diving deep into:
+---
 
-* **Programming Languages:** Currently learning Python and exploring its applications in web development and data science.
-* **Web Development:** Building my front-end skills with HTML, CSS, JS (great focus on React) and exploring back-end development with Node.js.
-* **Data Structures and Algorithms:** Strengthening my understanding of fundamental data structures and algorithms to write efficient and scalable code.
-* **Databases:** Working with relational databases like SQL and exploring NoSQL options.
-* **Software Engineering Principles:** Applying Agile methodologies and learning best practices for software design and testing.
+## 🚀 About Me
+- 💻 I build **full-stack web applications** using **React**, **Node.js**, and **PostgreSQL**.  
+- 🔐 I’m exploring **AI integration** and **secure coding practices** to create smarter and safer applications.  
+- 🎨 I combine my background in creativity and content creation to design visually appealing, intuitive solutions.  
+- 🌱 I’m constantly learning, experimenting, and contributing to real-world and open-source projects.  
+- 🤝 I enjoy collaborating, mentoring, and sharing knowledge with other developers.  
 
-<!-- ## What I'm Working On
+---
 
-I'm actively working on [mention current projects - even small ones!]:
+## 🧠 Currently Working On
+- Building and deploying **3 real-world full-stack projects** to strengthen my portfolio.  
+- Expanding skills in **AI-enhanced web apps** and **OWASP-based security testing**.  
+- Engaging with developer communities and **open-source collaborations**.  
 
-* **[Project 1 Name]:** [Brief, one-line description.  "A simple web application for managing personal tasks."]  *(Link to project if available)*
-* **[Project 2 Name]:** [Brief, one-line description.  "A command-line tool for automating file processing."] *(Link to project if available)*
-* **[Looking for project ideas!]:** I'm always eager to collaborate and contribute to interesting projects.  If you have any ideas or opportunities, please reach out! -->
+---
 
-## My Goals
+## 🛠️ Tech Stack
 
-* To continuously improve my coding skills and expand my knowledge in various areas of software engineering.
-* To contribute to open-source projects and collaborate with other developers.
-* To build a strong portfolio of projects that demonstrate my abilities and passion for software development.
-* To eventually land a challenging and rewarding role in the software industry.
+### 🧩 Languages & Frameworks
+`JavaScript` • `React.js` • `Node.js` • `Express.js` • `HTML5` • `CSS3`
 
-## Let's Connect!
+### 🗄️ Databases
+`PostgreSQL` • `MongoDB (familiar)` • `Prisma ORM`
 
-I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out to me!
+### 🧰 Tools & Platforms
+`Git` • `GitHub` • `VS Code` • `Postman` • `Figma` • `CapCut`
 
-* **Email:** aqleonie763nkolo@gmail.com
-* **LinkedIn:** www.linkedin.com/in/zamo-nkolo-alyssa-l-17725b321
+### 🔐 Security & AI
+`OWASP ZAP` • `Bandit` • `Secure Coding Practices` • `AI APIs`
 
+---
 
-## Thanks for visiting!
+## 🌟 Highlight Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **🎯 ProjectHub** | A collaborative project management app with tasks, user roles, and authentication. | React, Node.js, PostgreSQL |
+| **🎮 Mini Game Hub** | A fun platform for browser-based mini-games with leaderboards and APIs. | React, Express, MongoDB |
+| **🧾 My Portfolio Site** | My personal website showcasing projects, skills, and blog articles. | React, Tailwind CSS, Framer Motion |
 
-I'm excited to see what the future holds and I'm looking forward to sharing my progress here.  Feel free to explore my repositories and don't hesitate to get in touch!
-<!---
-Aly-leo/Aly-leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 *More projects coming soon*
+
+---
+
+## 📫 Let's Connect
+💼 **LinkedIn:** www.linkedin.com/in/zamo-alyssa  
+🌐 **Portfolio:** (coming soon)   
+📧 **Email:** zamoalyssa@gmail.com
+
+---
+
+## 💡 My Philosophy
+> *“Great code doesn’t just work — it communicates, it teaches, and it makes life easier.”*
+
+I believe in **writing clean, maintainable code**, **continuous learning**, and **building software that makes a difference**.  
+I’m open to **collaborations, internships, and mentorship opportunities** that challenge me to grow and contribute meaningfully.
+
+---
+
+⭐️ *If you like what I do, consider following me — it helps me keep building, learning, and sharing!*
