@@ -43,7 +43,7 @@ My journey blends **technical learning** and **creative problem-solving** — fr
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | **🎯 ProjectHub** | A collaborative project management app with tasks, user roles, and authentication. | React, Node.js, PostgreSQL |
-| **🎮 Mini Game Hub** | A fun platform for browser-based mini-games with leaderboards and APIs. | React, Express, MongoDB |
+| **🎮 Mini Game Hub** | A fun platform for browser-based mini-games with leaderboards and APIs. | Django, HTML5, CSS3 |
 | **🧾 My Portfolio Site** | My personal website showcasing projects, skills, and blog articles. | React, Tailwind CSS, Framer Motion |
 
 🔗 *More projects coming soon*
